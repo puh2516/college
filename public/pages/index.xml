@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Hugo Air Theme</title>
+    <link>http://localhost:1313/hugo-air/pages/</link>
+    <description>Recent content in Pages on Hugo Air Theme</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/hugo-air/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Air is a great hugo theme</title>
+      <link>http://localhost:1313/hugo-air/pages/my-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-air/pages/my-page/</guid>
+      <description>&lt;p&gt;Air is a great hugo theme with outstanding features like image gallery from page bundle&lt;/p&gt;&#xA;&lt;p&gt;{{ &amp;lt; gallery-masonry page=&amp;ldquo;my-page&amp;rdquo; &amp;gt; }}&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

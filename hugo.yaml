@@ -1,0 +1,12 @@
+baseURL: https://francoiducat.github.io/hugo-air/
+languageCode: en-us
+title: Hugo Air Theme
+theme: air
+
+params:
+  mainColor: "#386641"
+  gmaps_url: https://tinyurl.com/mr3uesbx
+
+services:
+  googleAnalytics:
+  id: G-12345  #Replace with your Google Analytics ID
