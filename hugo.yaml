@@ -9,4 +9,4 @@ params:
 
 services:
   googleAnalytics:
-  id: G-12345  #Replace with your Google Analytics ID
+  id: G-12345  
